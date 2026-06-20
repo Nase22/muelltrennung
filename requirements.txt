@@ -1,5 +1,5 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
 streamlit
---find-links https://download.pytorch.org/whl/cpu/torch_stable.html
-torch--cpu
-torchvision--cpu
+torch
+torchvision
 Pillow
